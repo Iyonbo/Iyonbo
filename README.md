@@ -2,3 +2,4 @@
 - Software Developer || Master's degree in Security Informatic System at Universidad Mariano Gálvez de Guatemala || Life Long Learner
 - 👀 I’m interested in becoming a full-stack developer.
 - 🌱 A little about me, Computer Systems Engineering student, able to apply my knowledge to employ user support, programming language management and ability to adapt to new programs and their logic. My work experience makes me a customer oriented person to search for solutions, communicative and proactive in teamwork with co-workers. I am always ready to acquire new knowledge and training, with the advantage of fast learning.
+- 📫 How to reach me? You can email me to ignacio.yon.95@gmail.com or at my LinkedIn Profile www.linkedin.com/in/ignacio-jon-li-yon-bobadilla-9105b2215
